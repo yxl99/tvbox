@@ -2,32 +2,30 @@
 
 { "url": "http://bobohome.ignorelist.com:20247/🍙小米/", "name": "最新小米线路影视仓无效" },
 
-{ "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json", "name": "小米官方线路" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米官方线路" },
 
 
 
-{"url": "http://154.222.26.40:93/tvboxqq/25小米/api.json","name": "251230旧小米线路"},
+{"url": "httphttps://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/25小米/api.json","name": "251230旧小米线路"},
 
-{"url": "http://154.222.26.40:93/tvboxqq/26南风线路/XC.json","name": "26南风线路"},
+{"url": "https://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/26南风线路/XC.json","name": "26南风线路"},
 
-{ "url": "http://154.222.26.40:93/tvboxqq/jiqiao8/tvbox.json", "name": "技巧8支持v3有验证慎用" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/jiqiao8/tvbox.json", "name": "技巧8支持v3有验证慎用" },
 
 
-{ "url": "http://154.222.26.40:93/tvboxqq/肥猫/api.json", "name": "251230肥猫" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/肥猫/api.json", "name": "251230肥猫" },
 
-{ "url": "http://154.222.26.40:93/tvboxqq/jiqiao8/taoju.json", "name": "淘剧网（小孩别用）" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/jiqiao8/taoju.json", "name": "淘剧网（小孩别用）" },
 
 { "url": "http://bobohome.ignorelist.com:20247/🌪️南风/", "name": "最新南风线路" },
 
-{ "url": "http://154.222.26.40:93/tvboxqq/qiezi/tv.json", "name": "最新茄子线路" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/qiezi/tv.json", "name": "最新茄子线路" },
 
 { "url": "https://gitee.com/yxl_99/ff/raw/master/0803.bmp", "name": "自用" },
 
-{ "url": "http://154.222.26.40:93/tvboxqq/ziyong/0803.json", "name": "自用备用地址" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/ziyong/0803.json", "name": "自用备用地址" },
 
-{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "王二小放牛娃官方" },
-
-{ "url": "http://ok321.top/ok", "name": "ok线路官方慎用" },
+{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "王二小放牛娃官方慎用" },
 
 
 {"url": "http://bobohome.ignorelist.com:20247/🧒少儿频道/","name": "最新少儿频道"},
