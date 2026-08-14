@@ -2,8 +2,9 @@
 
 "storeHouse":
 [
-
-{"sourceName":"😄裙下大佬","sourceUrl":"http://192.168.8.6:5244/d/1/b本地仓/qunxia.json"},
+{"sourceName":"在线","sourceUrl":"https://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/b本地仓.txt"},
+{"sourceName":"😄裙下在线","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/qunxia.json"},
+{"sourceName":"😄裙下大佬本地","sourceUrl":"http://192.168.8.6:5244/d/1/b本地仓/qunxia.json"},
 
 {"sourceName":"站点删除后可重启拉取👉","sourceUrl":"删除列表重启更新"},
 {"sourceName":"可切换以下更多线路👇","sourceUrl":"列表太多可以删除后重启更新"},
