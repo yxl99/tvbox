@@ -44,7 +44,7 @@
 
 { "url": "clan://localhost/2/", "name": "下面带有本地的请勿点击👇" },
 
-{ "url": "http://154.222.26.40:93/tvboxqq/pg/jsm.json", "name": "本地smb" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yxl99/tvbox/refs/heads/master/pg/jsm.json", "name": "本地smb" },
 
 { "url": "http://154.222.26.40:93/tvboxqq/ziyong/bd.json", "name": "备用本地smb" },
 
