@@ -1,8 +1,10 @@
 ﻿{ "urls": [
 
+{ "url": "http://bobohome.ignorelist.com:20247/🍙小米/", "name": "最新小米线路影视仓无效" },
+
 { "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json", "name": "小米官方线路" },
 
-{ "url": "http://bobohome.ignorelist.com:20247/🍙小米/", "name": "最新小米线路影视仓无效" },
+
 
 {"url": "http://154.222.26.40:93/tvboxqq/25小米/api.json","name": "251230旧小米线路"},
 
