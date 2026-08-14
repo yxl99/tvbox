@@ -1,0 +1,13 @@
+{
+  "drives": [
+  {
+      "name": "电影类",
+      "server": "http://154.222.26.40:5244/软件下载/电影类/"
+    },
+  {
+      "name": "七米蓝",
+      "server": "https://al.chirmyram.com/"
+    }
+    
+  ]
+}

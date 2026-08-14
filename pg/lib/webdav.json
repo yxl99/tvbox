@@ -1,0 +1,13 @@
+{
+  "drives": [
+    {
+      "name": "webdav.我的",
+      "search": true,
+      "searchable": true,
+      "server": "http://154.222.26.40:5244",
+      "path": "/dav/",
+      "user": "ck",
+      "pass": "ck123456.."
+    }
+  ]
+}

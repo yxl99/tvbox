@@ -1,0 +1,14 @@
+[
+    {
+            "name": "电视直播📺〔蓝光〕",
+            "type": 0,
+            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "playerType": 1,
+            "timeout": 10
+        },
+        {"name":"电视直播📺〔高清〕","type":0,"url":"https://gitee.com/yuan301/tv/raw/master/live.js","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
+	{"name":"Gather.电视直播📡","url":"https://tv.iill.top/m3u/Gather"},
+	{"name":"Gather.网络直播📡","url":"https://tv.iill.top/m3u/Live"}
+]

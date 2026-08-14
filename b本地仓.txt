@@ -1,0 +1,119 @@
+{ "urls": [
+
+{ "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json", "name": "小米官方线路" },
+
+{ "url": "http://bobohome.ignorelist.com:20247/🍙小米/", "name": "最新小米线路影视仓无效" },
+
+{"url": "https://700sjro44343.vicp.fun/vip/vip/tv.json","name": "不具名官线路"},
+
+{ "url": "http://154.222.26.40:93/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/潇洒/api.json", "name": "潇洒" },
+
+
+{ "url": "http://154.222.26.40:93/tvboxqq/天天开心/api.json", "name": "天天开心" },
+
+
+{ "url": "http://154.222.26.40:93/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/短剧频道/api.json", "name": "短剧频道" },
+
+
+{ "url": "http://154.222.26.40:93/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+
+{"url": "http://154.222.26.40:93/tvboxqq/25小米/api.json","name": "251230旧小米线路"},
+
+{"url": "http://154.222.26.40:93/tvboxqq/26南风线路/XC.json","name": "26南风线路"},
+
+{ "url": "http://154.222.26.40:93/tvboxqq/jiqiao8/tvbox.json", "name": "技巧8支持v3有验证慎用" },
+
+
+{ "url": "http://154.222.26.40:93/tvboxqq/肥猫/api.json", "name": "251230肥猫" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/jiqiao8/taoju.json", "name": "淘剧网（小孩别用）" },
+
+{ "url": "http://bobohome.ignorelist.com:20247/🌪️南风/", "name": "最新南风线路" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/qiezi/tv.json", "name": "最新茄子线路" },
+
+{ "url": "https://gitee.com/yxl_99/ff/raw/master/0803.bmp", "name": "自用" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/ziyong/0803.json", "name": "自用备用地址" },
+
+{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "王二小放牛娃官方" },
+
+{ "url": "http://ok321.top/ok", "name": "ok线路官方慎用" },
+
+
+{"url": "http://bobohome.ignorelist.com:20247/🧒少儿频道/","name": "最新少儿频道"},
+
+
+{ "url": "http://bobohome.ignorelist.com:20247/🐼PG/", "name": "最新PG线路需网盘扫码慎用" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/新小米/api.json", "name": "旧小米线路" },
+
+
+{ "url": "clan://localhost/2/", "name": "下面这是别人的线路👇" },
+
+{"url": "https://raw.liucn.cc/box/m.json","name": "老刘备线路"},
+
+{"url": "http://cdn.qiaoji8.com/tvbox.json","name": "巧技线路"},
+
+
+
+{ "url": "clan://localhost/2/", "name": "下面带有本地的请勿点击👇" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/pg/jsm.json", "name": "本地smb" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/ziyong/bd.json", "name": "备用本地smb" },
+
+{ "url": "clan://localhost/2/c18h.pdd", "name": "本地c18h.pdd需要/2下面勿点" },
+
+{ "url": "http://192.168.8.8:8080/tv?token=6a87d589e7a1e221", "name": "本地T4搜索勿点" },
+
+{ "url": "http://192.168.8.8:8080/tv?token=6a87d589e7a1e221&platform=ysc", "name": "本地T4影视仓搜索勿点" },
+
+
+
+{"url": "","name": "下边是自建线路👇"},
+
+{ "url": "http://38.165.47.14:8080/tv?token=6a87d589e7a1e221", "name": "T4搜索请选择天意" },
+
+{ "url": "http://38.165.47.14:8080/tv?token=6a87d589e7a1e221&platform=ysc", "name": "T4影视仓搜索请选择天意" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/bjm/bjm.json", "name": "不具名线路速度快" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/drpy_dzlive/index.json", "name": "道长线路" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/真心在线/FongMi.json", "name": "真心在线慎用" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/yoyo/yoyo.json", "name": "yoyo线路" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/ok/api.json", "name": "ok" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/新欧歌/api.json", "name": "新欧歌" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/欧歌/api.json", "name": "欧歌" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/技巧/api.json", "name": "技巧" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/短剧/api.json", "name": "新短剧" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/4k/4k.json", "name": "4k线路" },
+
+{ "url": "http://154.222.26.40:93/tvboxqq/小米/api.json", "name": "小米" },
+
+
+
+
+
+
+
+
+
+{"url": "http://38.165.47.14:8999/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "南风官网线路"},
+
+{"url": "https://xn--xna-mf3g9f.v.nxog.top/m/333.php?ou=公众号欧歌app&mz=1&jar=all&b=欧歌xna","name": "欧歌线路"}
+]}
